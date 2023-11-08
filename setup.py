@@ -36,7 +36,7 @@ setup(
     install_requires=[
         'numpy>=1.20',
         'jax==0.4.16',
-        'tensorflow==2.14.0',
+        'tensorflow==2.13.0',
         'chex>=0.1.6',
         'dm_env>=1.6',
         'flax>=0.6.7',
